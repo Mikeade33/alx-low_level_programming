@@ -1,6 +1,6 @@
 /*
  * File: 0-positive_or_negative.c
- * Auth: Muhammed Abdulrahaman Adinoyi
+ * Auth: Michael Adebowale
  */
 
 #include <stdlib.h>
