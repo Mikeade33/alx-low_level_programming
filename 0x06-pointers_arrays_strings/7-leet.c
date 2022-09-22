@@ -17,12 +17,11 @@ char *leet(char *str)
 		{
 			if (str[indx1] == leet[indx2] ||
 			    str[indx1] - 32 == leet[indx2])
-				str[indx1] = indx2 + '0';
+				str[indx1] = indx2 + '0';	
 		}
 
 		indx1++;
-		
 	}
 
-	return (s);
+	return (str);
 }
