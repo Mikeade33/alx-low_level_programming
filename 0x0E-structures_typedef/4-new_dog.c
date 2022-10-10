@@ -37,7 +37,6 @@ char *_strcopy(char *dest, char *src)
 
 /**
  * new_dog - Creates a new dog.
- *
  * Return: The new struct dog.
  */
 dog_t *new_dog(char *name, float age, char *owner)
